@@ -11,7 +11,7 @@ import sys
 from setuptools import setup, find_packages
 
 NAME = "bluelens-k8s"
-VERSION = "0.0.1"
+VERSION = "0.0.3"
 # To install the library, run the following
 #
 # python setup.py install
